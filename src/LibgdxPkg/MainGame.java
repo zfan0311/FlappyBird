@@ -3,7 +3,7 @@ import com.badlogic.gdx.Game;
 
 // This is another branch 2333
 
-// 这是一个冲突的地方
+// 这是一个冲突的地方哈哈哈哈
 
 
 public class MainGame extends Game{
