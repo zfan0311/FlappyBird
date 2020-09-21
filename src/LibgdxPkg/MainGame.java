@@ -1,5 +1,6 @@
 package LibgdxPkg;
 import com.badlogic.gdx.Game;
+// 这是一个冲突的地方
 
 public class MainGame extends Game{
 	private GameScreen game_screen;
