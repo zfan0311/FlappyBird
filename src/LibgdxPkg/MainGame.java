@@ -1,6 +1,6 @@
 package LibgdxPkg;
 import com.badlogic.gdx.Game;
-// This is another branch
+// This is another branch 2
 public class MainGame extends Game{
 	private GameScreen game_screen;
 
